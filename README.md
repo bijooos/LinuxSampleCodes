@@ -1,2 +1,2 @@
 # LinuxSampleCodes
-Template codes for Linux internal cocepts
+Template codes for Linux internal concepts
